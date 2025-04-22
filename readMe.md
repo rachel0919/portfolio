@@ -65,20 +65,20 @@
 - 📫 Contact: chaiheran@gmail.com
 
 ---
-
 ## 🧰 Tech Stack
 
 **💻 Frontend**  
 <img src="https://skillicons.dev/icons?i=html,css,js,jquery" />
 
-
 **🎨 Design**  
 <img src="https://skillicons.dev/icons?i=figma,ps" />  
-After Effects · Premiere Pro · Final Cut Pro 
+After Effects · Premiere Pro · Final Cut Pro
 
-
-**🔧 Tools **  
+**🔧 Tools**  
 <img src="https://skillicons.dev/icons?i=github,vscode" />
+
+
+
 ---
 
 > 포트폴리오와 더 많은 작업물이 궁금하다면 👉 [rachelchai.dothome.co.kr](http://rachelchai.dothome.co.kr/)
