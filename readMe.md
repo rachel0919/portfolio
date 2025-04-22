@@ -25,6 +25,7 @@
 
 - 사용 기술: HTML, CSS, jQuery
 - GitHub: [🔗 바로가기](https://github.com/heranchai/benandjerry)
+- GitHubCODE: [🔗 바로가기](https://github.com/username/myblog)
 
 ---
 
@@ -34,6 +35,7 @@
 
 - 사용 기술: HTML, CSS, jQuery
 - GitHub: [🔗 바로가기](https://github.com/heranchai/karma)
+- GitHubCODE: [🔗 바로가기](https://github.com/username/myblog)
 
 ---
 
@@ -42,7 +44,8 @@
 📌 *타이핑 애니메이션 + 카테고리 스와이프 전환 기능 포함*
 
 - 사용 기술: HTML, CSS, jQuery
-- GitHub: [🔗 바로가기](https://github.com/heranchai/jennie)
+- GitHub: [🔗 바로가기](https://rachel0919.github.io/study310/project_003_Jennie/index.html)
+- GitHubCODE: [🔗 바로가기](https://github.com/username/myblog](https://github.com/rachel0919/study310/blob/main/project_003_Jennie/index.html)
 
 ---
 
