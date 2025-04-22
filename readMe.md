@@ -30,3 +30,6 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Red_Apple.jpg/640px-Red_Apple.jpg">
 </p>
 
+emoji 작성법
+윈도우버튼 + 마침표 (.) 또는 윈도우 + 세미클론(;)
+
