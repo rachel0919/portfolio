@@ -26,6 +26,7 @@
 ---
 
 
-<p aling="center">가운데정렬</p>
-
+<p align="center">가운데정렬 <br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Red_Apple.jpg/640px-Red_Apple.jpg">
+</p>
 
