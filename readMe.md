@@ -24,8 +24,8 @@
 📌 *제품 리스트 인터랙션 + 감각적 전환 효과 중심 리디자인*
 
 - 사용 기술: HTML, CSS, jQuery
-- GitHub: [🔗 바로가기](https://github.com/heranchai/benandjerry)
-- GitHubCODE: [🔗 바로가기](https://github.com/username/myblog)
+- GitHub: [🔗 바로가기](https://rachel0919.github.io/study310/project002/index.html)
+- GitHubCODE: [🔗 바로가기](https://github.com/rachel0919/study310/blob/main/project002/index.html)
 
 ---
 
@@ -34,8 +34,8 @@
 📌 *필터 중심 UI 구조화 + UX 플로우 정리 기반 리디자인*
 
 - 사용 기술: HTML, CSS, jQuery
-- GitHub: [🔗 바로가기](https://github.com/heranchai/karma)
-- GitHubCODE: [🔗 바로가기](https://github.com/username/myblog)
+- GitHub: [🔗 바로가기](https://rachel0919.github.io/study310/project001/index.html)
+- GitHubCODE: [🔗 바로가기](https://github.com/rachel0919/study310/blob/main/project001/index.html)
 
 ---
 
