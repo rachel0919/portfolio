@@ -74,9 +74,7 @@
 **🎨 Design**  
 <img src="https://skillicons.dev/icons?i=figma,ps" />
 <br/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Adobe_After_Effects_CC_icon.svg" width="30" alt="After Effects" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Adobe_Premiere_Pro_CC_icon.svg" width="30" alt="Premiere Pro" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Final_Cut_Pro_icon.png" width="30" alt="Final Cut Pro" />
+<img src="https://skillicons.dev/icons?i=figma,ps" /> <br/> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Adobe_After_Effects_CC_icon.svg" width="30" alt="After Effects" /> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Adobe_Premiere_Pro_CC_icon.svg" width="30" alt="Premiere Pro" /> <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Final_Cut_Pro_icon.png" width="30" alt="Final Cut Pro" />
 
 
 **🔧 Tools**  
