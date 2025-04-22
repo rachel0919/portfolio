@@ -26,6 +26,6 @@
 ---
 
 
-<p aling="center"></p>
+<p aling="center">가운데정렬</p>
 
 
