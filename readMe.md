@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="https://github.com/rachel0919/portfolio/blob/main/asset/profileImgGithub_001.png?raw=true" width="200" alt="Heran logo">
+   <img src="https://github.com/rachel0919/portfolio/blob/main/asset/profileImgGithub_wide.png?raw=true" width="400" alt="Heran logo">
 </p>
 
 <h1 align="center">Hi there! 👋</h1>
