@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi there! 👋</h1>
-<p align="center">방송 후반작업 디렉터에서 UX/UI 디자이너로 전향한 프론트엔드 디자이너 **Heran**입니다. <br></p> <hr>
+<p align="center">방송 후반작업 디렉터에서 UX/UI 디자이너로 전향한 프론트엔드 디자이너 **Heran**입니다 <br></p> <hr>
 <p align="center">사용자에게 의미 있는 경험을 만드는 걸 좋아하고,  
 디자인과 코드를 잇는 연결점을 고민하며 작업합니다.</p>
 
