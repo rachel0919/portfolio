@@ -73,7 +73,7 @@
 
 **🎨 Design**  
 <img src="https://skillicons.dev/icons?i=figma,ps" />  
-<sub>After Effects · Premiere Pro · Final Cut Pro</sub>
+After Effects · Premiere Pro · Final Cut Pro
 
 **🔧 Tools**  
 <img src="https://skillicons.dev/icons?i=github,vscode" />
