@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://via.placeholder.com/120" width="120" height="120" alt="프로필 이미지">
+   <img src="https://github.com/rachel0919/portfolio/blob/main/asset/profileImgGithub_001.png?raw=true" width="200" alt="Heran logo">
 </p>
 
 <h1 align="center">Hi there! 👋</h1>
