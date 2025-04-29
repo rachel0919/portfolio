@@ -42,9 +42,8 @@ I love crafting meaningful experiences and exploring the connection between desi
 
 ### 3. 📌 **JENNIE Fanpage**  
 > Stylish fan website combining music, shows, and fashion  
-📌 *Typing animation + swipe-based category transition*
-> ⏳ *Please allow 4–5 seconds for the page to fully load due to intro animation.*
-
+📌 *Typing animation + swipe-based category transition*  
+⏳ *Please allow 4–5 seconds for the page to fully load due to intro animation.*
 - Tech Stack: HTML, CSS, jQuery  
 - GitHub Demo: [🔗 View Site](https://rachel0919.github.io/study310/project_003_Jennie/index.html)  
 - GitHub Code: [🔗 Source](https://github.com/rachel0919/study310/blob/main/project_003_Jennie/index.html)
