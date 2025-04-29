@@ -60,7 +60,7 @@ I love crafting meaningful experiences and exploring the connection between desi
 
 - 🔄 Career switcher: from broadcast post-production director to UX/UI designer  
 - 💡 Passionate about connecting design with clean, accessible code  
-- 🌎 Based in Korea, studied in the UK, preparing to work in Canada  
+- 🌎 Based in Korea, previously lived in the UK, currently preparing to work in Canada
 - 📫 Contact: chaiheran@gmail.com
 
 ---
