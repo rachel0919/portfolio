@@ -14,7 +14,7 @@ I love crafting meaningful experiences and exploring the connection between desi
 
 ## 🔗 Portfolio
 
-👉 [📂 View full portfolio (dothome)](http://rachelchai.dothome.co.kr/)
+👉 [📂 View full portfolio](https://rachel0919.github.io/portfolio/)
 
 ---
 
@@ -25,8 +25,8 @@ I love crafting meaningful experiences and exploring the connection between desi
 📌 *Product card interaction + dynamic page transitions*
 
 - Tech Stack: HTML, CSS, jQuery  
-- GitHub Demo: [🔗 View Site](https://rachel0919.github.io/study310/project002/index.html)  
-- GitHub Code: [🔗 Source](https://github.com/rachel0919/study310/blob/main/project002/index.html)
+- GitHub Demo: [🔗 View Site](https://rachel0919.github.io/portfolio/project002/index.html)  
+- GitHub Code: [🔗 Source](https://github.com/rachel0919/portfolio/blob/main/project002/index.html)
 
 ---
 
@@ -35,8 +35,8 @@ I love crafting meaningful experiences and exploring the connection between desi
 📌 *Filter-based UI + simplified UX flow*
 
 - Tech Stack: HTML, CSS, jQuery  
-- GitHub Demo: [🔗 View Site](https://rachel0919.github.io/study310/project001/index.html)  
-- GitHub Code: [🔗 Source](https://github.com/rachel0919/study310/blob/main/project001/index.html)
+- GitHub Demo: [🔗 View Site](https://rachel0919.github.io/portfolio/project001/index.html)  
+- GitHub Code: [🔗 Source](https://github.com/rachel0919/portfolio/blob/main/project001/index.html)
 
 ---
 
@@ -45,8 +45,8 @@ I love crafting meaningful experiences and exploring the connection between desi
 📌 *Typing animation + swipe-based category transition*  
 ⏳ *Please allow 4–5 seconds for the page to fully load due to intro animation.*
 - Tech Stack: HTML, CSS, jQuery  
-- GitHub Demo: [🔗 View Site](https://rachel0919.github.io/study310/project_003_Jennie/index.html)  
-- GitHub Code: [🔗 Source](https://github.com/rachel0919/study310/blob/main/project_003_Jennie/index.html)
+- GitHub Demo: [🔗 View Site](https://rachel0919.github.io/portfolio/project_003_Jennie/index.html)  
+- GitHub Code: [🔗 Source](https://github.com/rachel0919/portfolio/blob/main/project_003_Jennie/index.html)
 
 ---
 
