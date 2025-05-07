@@ -14,7 +14,7 @@ I love crafting meaningful experiences and exploring the connection between desi
 
 ## 🔗 Portfolio
 
-👉 [📂 View full portfolio (dothome)](http://rachelchai.dothome.co.kr/)
+👉 [📂 View full portfolio](https://rachel0919.github.io/portfolio/)
 
 ---
 
