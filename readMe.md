@@ -98,3 +98,9 @@ After Effects · Premiere Pro · Final Cut Pro
 - 📫 이메일: chaiheran@gmail.com
 
 </details>
+
+## 🎞️ Portfolio Presentation
+
+이 포트폴리오 프레젠테이션에서는 프로젝트 개요, 디자인 의도, 기능 시연 등을 담았습니다.
+
+[📽️ 프레젠테이션 보러가기](https://www.figma.com/proto/BUTWsZVP6FZRUdtRnn0wdv/presentation?node-id=0-1&t=vucb7FeQ6zMyptqp-1)
